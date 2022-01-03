@@ -1,4 +1,3 @@
-# Notes-of-artificial-neural-network
-Personal learning notes about artificial neural network
-
-![image](https://user-images.githubusercontent.com/58159331/147906551-cda409e2-9094-46d2-ad1d-bd867b77b16f.png)
+# 神经网络学习笔记
+主要为学习神经网络过程中的一些学习笔记，如有侵权，请联系删除。
+Email： ljxiong84@163.com 
