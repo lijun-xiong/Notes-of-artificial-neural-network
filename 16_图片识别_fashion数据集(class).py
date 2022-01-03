@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 # @FileName  :16_图片识别_fashion数据集(class)
 # @Time      :2022/1/1 0001 19:33
-# @Author    :熊利军
+# @Author    :ljxiong
 # @Email     :ljxiong84@163.com
 
 import tensorflow as tf
